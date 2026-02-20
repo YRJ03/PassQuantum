@@ -7,8 +7,7 @@ It helps users improve their online security by generating highly secure passwor
 
 ## 🚀 Live Demo
 
-🔗 https://passquantum.vercel.app  
-*(Replace with your actual deployed link)*
+🔗 https://pass-quantum-yuvitech.vercel.app/
 
 ---
 
