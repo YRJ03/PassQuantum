@@ -1,16 +1,141 @@
-# React + Vite
+# 🔐 PassQuantum
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+PassQuantum is a modern and secure **password generator web application** designed to create strong, customizable passwords instantly.  
+It helps users improve their online security by generating highly secure passwords with flexible options and a clean, user-friendly interface.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
 
-## React Compiler
+🔗 https://passquantum.vercel.app  
+*(Replace with your actual deployed link)*
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 📸 Preview
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<img src="./public/passquantum.png" width="800" altPassQuantum Screenshot"/>="
+
+---
+
+## ✨ Features
+
+- 🔑 Generate strong and secure passwords  
+- 🔢 Customizable password length  
+- 🔠 Include uppercase & lowercase letters  
+- 🔣 Include numbers and special characters  
+- 📋 One-click copy to clipboard  
+- 📱 Fully responsive design  
+- ⚡ Fast and lightweight performance  
+
+---
+
+## 🛠 Tech Stack
+
+- **React.js**
+- **Tailwind CSS**
+- **JavaScript (ES6+)**
+- **Vite**
+
+---
+
+## 📦 Installation & Setup
+
+Follow these steps to run the project locally:
+
+### 1️⃣ Clone the Repository
+
+```bash
+git clone https://github.com/YRJ03/PassQuantum.git
+```
+
+### 2️⃣ Navigate to Project Folder
+
+```bash
+cd PassQuantum
+```
+
+### 3️⃣ Install Dependencies
+
+```bash
+npm install
+```
+
+### 4️⃣ Start Development Server
+
+```bash
+npm run dev
+```
+
+The app will run on:
+
+```
+http://localhost:5173
+```
+
+---
+
+## 🔐 Security Note
+
+PassQuantum generates passwords locally in the browser.  
+No passwords are stored, tracked, or transmitted to any server.
+
+---
+
+## 🚀 Deployment
+
+You can deploy PassQuantum easily on:
+
+- **Vercel**
+- **Netlify**
+- **GitHub Pages**
+
+To create a production build:
+
+```bash
+npm run build
+```
+
+Deploy the generated `dist` folder.
+
+---
+
+## 🔮 Future Improvements
+
+- 🌙 Dark mode toggle  
+- 📊 Password strength indicator  
+- 💾 Save generated passwords locally  
+- 🔐 Option to exclude similar characters  
+- 📱 PWA support  
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome!
+
+1. Fork the repository  
+2. Create your feature branch  
+3. Commit your changes  
+4. Push to the branch  
+5. Open a Pull Request  
+
+---
+
+## 👨‍💻 Author
+
+**Yuvraj Yadav**  
+Full Stack Web Developer  
+Built with ❤️ using React & Tailwind CSS  
+
+GitHub: https://github.com/YRJ03  
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License**.
+
+---
+
+⭐ If you like this project, don’t forget to star the repository!
