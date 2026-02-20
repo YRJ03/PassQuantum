@@ -13,7 +13,7 @@ It helps users improve their online security by generating highly secure passwor
 
 ## 📸 Preview
 
-<img src="./public/passquantum.png" width="800" altPassQuantum Screenshot"/>="
+<img src=".public/passquantum.png" width="800" altPassQuantum Screenshot"/>="
 
 ---
 
