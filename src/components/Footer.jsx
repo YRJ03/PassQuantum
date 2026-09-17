@@ -6,11 +6,11 @@ export default function Footer() {
         <p className="text-center text-sm">
           © {new Date().getFullYear()} 
           <a 
-            href="https://yuvitech.netlify.app/" 
+            href="https://yuvraj-yadav-info.vercel.app/" 
             target="_blank" 
             className="mx-1 font-medium text-blue-500"
           >
-            YuviTech
+            Yuvraj Yadav
           </a>
           — All rights reserved.
         </p>
